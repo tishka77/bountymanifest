@@ -248,8 +248,8 @@
     "Servers": {
         "Official": [
             {
-                "Address": "51.83.4.22",
-                "Port": 28004,
+                "Address": "s1.hks.network",
+                "Port": 10002,
                 "Tags": ""
             }
         ],
